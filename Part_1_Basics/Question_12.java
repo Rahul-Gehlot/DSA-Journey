@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Question_12 {
     public static void main(String[] args) {
-//        Program to reverse a number       //
+//        Program to rotate a number       //
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int r = sc.nextInt();
